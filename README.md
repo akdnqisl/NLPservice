@@ -2,7 +2,7 @@
 
 ### Environment
 - python: 3.9.19
-- google-generativeai:0.7.2
+- google-generativeai: 0.7.2
 - streamlit: 1.36.0
 
 ### 실행방법
