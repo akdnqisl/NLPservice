@@ -1,6 +1,5 @@
-from packages.AI import Model
-import streamlit as st
-
+from packages.AI import Model # packages 폴더의 AI.py에서 Model 클래스를 import
+import streamlit as st # 웹 페이지를 만들기 위한 라이브러리
 
 def main():
     model = Model()
