@@ -1,11 +1,13 @@
-# 2024_hai_summer
+# NLPservice
 
 ### Environment
+
 - python: 3.9.19
 - google-generativeai: 0.7.2
 - streamlit: 1.36.0
 
 ### 실행방법
+
 1. git clone {repository url}
 2. clone 한 디렉토리로 이동
 3. pip install -r requirements.txt
